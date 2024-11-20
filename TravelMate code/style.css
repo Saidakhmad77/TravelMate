@@ -13,7 +13,7 @@ body {
     height: 100px; /* Example height  */
     scroll-behavior: smooth; /* Smooth scrolling behavior */
     line-height: 1.6; /* Line height for readability */
-    background-image: url('/TravelMate/pictures/cebu2.jpg'); /* Background image */
+    background-image: url('../pictures/cebu2.jpg'); /* Background image */
     background-size: cover; /* Cover background */
     background-position: center; /* Center background image */
     background-repeat: no-repeat; /* No repeating background */
@@ -77,7 +77,7 @@ nav .social-icons img {
 
 /* Section 1 specific styles */
 #section1 {
-    background: url('/website/cebu2.jpg') no-repeat center center/cover; /* Background image */
+    /* background: url('../pictures/cebu2.jpg') no-repeat center center/cover; */ /* Background image */
     color: white; /* Text color */
     display: flex;
     flex-direction: column;
